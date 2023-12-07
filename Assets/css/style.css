@@ -140,15 +140,16 @@ header {
 }
 
 .header-text {
-    color: #fff;
+    color:#D45E5E;
     padding: 5px;
     background-image: url(../images/Banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background:#240024;
 }
 
 .header-text h1, .header-text h2 {
-    color: #fff;
+    color:#D45E5E;
 }
 
 .header-text h1 {
