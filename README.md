@@ -2,7 +2,7 @@
 
 ## Title:
 
-## Drammen-Science-Museum
+Drammen-Science-Museum
 
 ## - Overview:
 This project is about building a website for Drammen Science Museum, which will help launder the image of the Museum. Making it captivating, and enticingly mind blowing for the teaming viewers.
