@@ -3,6 +3,8 @@
 
 This project is about building a website for Drammen Science Museum, which will help launder the image of the Museum. Making it captivating, and enticingly mind blowing for the teaming viewers.
 
+[Live site](https://fascinating-biscuit-16f375.netlify.app/)
+
 ##  Description:
 The interactive science museum website is meticulously designed to captivate and educate primary and middle school children (ages 7-15), as well as families with young children. This dynamic online platform offers a plethora of engaging features and resources tailored to spark curiosity and foster a love for science among young learners.
 
