@@ -1,6 +1,8 @@
 
 ## Drammen-Science-Museum
 
+<img src="./Assets/images/DrammenScienceScreenShot.png" ait="Drammen Science" style="width: 80%;">
+
 This project is about building a website for Drammen Science Museum, which will help launder the image of the Museum. Making it captivating, and enticingly mind blowing for the teaming viewers.
 
 [Live site](https://fascinating-biscuit-16f375.netlify.app/)
